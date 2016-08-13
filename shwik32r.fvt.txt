@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   css/bootstrap-responsive.css
+#	new file:   css/bootstrap-responsive.min.css
+#	new file:   css/bootstrap.css
+#	new file:   css/bootstrap.min.css
+#	new file:   header.html
+#	new file:   img/glyphicons-halflings-white.png
+#	new file:   img/glyphicons-halflings.png
+#	new file:   index.html
+#	new file:   js/bootstrap.js
+#	new file:   js/bootstrap.min.js
+#	new file:   projects.html
+#
+
